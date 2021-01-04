@@ -1,0 +1,1 @@
+This is a simple example to show how to use EnvoyFilter to enable Kafka and Zookeeper protocol support in an Istio service mesh.
